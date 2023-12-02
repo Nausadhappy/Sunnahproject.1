@@ -329,9 +329,29 @@
       <p> Get To Knows Us </p>
       <a>Sunnah</a>
       <a> Blog </a>
-
-
-      body {
+      <a> About Sunnah </a>
+      <a> Inventor Relitigation</a>
+      <a> Sunnah Scince </a>
+    </ul>
+        <ul>
+      <p> Get To Knows Us </p>
+      <a>Sunnah</a>
+      <a> Blog </a>
+      <a> About Sunnah </a>
+      <a> Inventor Relitigation</a>
+      <a> Sunnah Scince </a>
+    </ul>
+  </div>
+  <div class="foot-border"> 
+    <div class="footlogo">  
+    </div> 
+    </div>
+</footer>
+	  	  
+	  	  <style>
+	  	    
+	  	    
+	  	    body {
   margin: 0;
   font-family: arial;
   box-sizing: border-box;
@@ -572,25 +592,7 @@ ul a{
   font-size: 0.7rem;
   margin-top: 10px;
 }
-      <a> About Sunnah </a>
-      <a> Inventor Relitigation</a>
-      <a> Sunnah Scince </a>
-    </ul>
-        <ul>
-      <p> Get To Knows Us </p>
-      <a>Sunnah</a>
-      <a> Blog </a>
-      <a> About Sunnah </a>
-      <a> Inventor Relitigation</a>
-      <a> Sunnah Scince </a>
-    </ul>
-  </div>
-  <div class="foot-border"> 
-    <div class="footlogo">  
-    </div> 
-    </div>
-</footer>
-	  	  
+	  	  </style>
 </body>
 </html>
 	  
