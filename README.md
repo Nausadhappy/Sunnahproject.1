@@ -329,6 +329,249 @@
       <p> Get To Knows Us </p>
       <a>Sunnah</a>
       <a> Blog </a>
+
+
+      body {
+  margin: 0;
+  font-family: arial;
+  box-sizing: border-box;
+box-sizing: border-box;
+
+}
+.navbar{
+  height: 70px;
+  background-color: #0f1111;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+.nav_logo{
+  height:50px;
+  width: 100px;
+  
+}
+.logo{
+  background-image: url("/IMG_20231202_021301.jpg");
+ background-color: transparent;
+  background-size: cover;
+  height: 54px;
+  width: 120px;
+  margin-bottom: 100px;
+  
+  
+}
+.border{
+  border: 0.5px solid transparent;
+}
+.border:hover{
+  border:1.5px solid white;
+}
+
+.p-first{
+  color: #cccccc;
+ 
+  font-size: 1rem;
+  margin-left: 20px;
+  line-height: 0.1px;
+ 
+  
+ 
+ 
+}
+.p-second{
+  color: #ffffff;
+  font-size: 1rem;
+  margin-left: 10px;
+  letter-spacing: 0.1px;
+  line-height: 0.2;
+}
+.add-icon{
+  display: flex;
+  align-items: center;
+}
+/**box 3**/
+.nav-search{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: black;
+  width : 480px;
+  height: 40px;
+  border-radius: 3px;
+  margin-left: 20px;
+ 
+  
+
+  
+}
+.nav-block{
+  margin-left: 50px;
+}
+
+
+.search-select{
+  background-color: #F0F3F1;
+  width: 50px;
+  height: 40px;
+  align-items: center;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.search-input{
+  width : 100%;
+  height: 37px;
+  font-size: 0.8rem;
+  border : none;
+}
+.search-icon{
+  width: 45px; 
+  height : 40px;
+  align-items: center;
+  display : flex;
+  justify-content: center;
+  background-color: #00FF3F;
+}
+.nav-search:hover{
+  border: 2px solid orange;
+}
+/** nav 4 **/
+span{
+  font-size: 0.7rem;
+}
+.nav-select{
+  background-color: transparent;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  
+}
+
+.nav-cart i{
+  font-size: 35px;
+  
+}
+.nav-cart{
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin-right: 20px;
+}
+.nav-hello{
+  margin-left: 30px;
+}
+.nav-cart:hover{
+  border: 1.5px solid white;
+}
+.pannel{
+  height: 40px;
+  background-color: #222f3d;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.pannel-opo p{ 
+  margin-left: 10px;
+  display: inline;
+}
+.pannel-opo{
+  width: 70%;
+  font-size: 0.8rem;
+ 
+}
+.panneld{
+  font-weight: 700;
+}
+.photo{
+  background-image: url("/photo /Screenshot_2023-09-16-05-26-51-079_com.facebook.katana.jpg");
+  background-size: cover;
+  height:550px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+
+}
+.message{
+  background-color: white;
+  height : 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.90rem;
+  font-weight: 600;
+  width: 80%;
+  margin-bottom: 300px;
+}
+.message a{
+  color: #007185;
+  font-weight: 700;
+ 
+}
+.message:hover{
+  border: 2px solid green;
+}
+/** box **/
+.shop-section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: #e2e7e6;
+
+   
+ 
+}
+.box{
+  border: 2px solid black;
+    height: 340px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    
+   
+  
+}
+.box-image{
+  height : 220px;
+  width: 90%;
+  background-size: cover ;
+}
+.image{
+  margin-left: 10px;
+}
+.hi{
+  background-color: transparent;
+  margin-top: 20px;
+    color: #007185;
+  font-weight: 700;
+}
+.footerin{
+  margin-top:30px;
+  margin-bottom: none;
+  
+}
+.down{
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 980px;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+}
+.footerpannel{
+  background-color: #2D2E3C;
+  color: white;
+ height : 520px;
+ display: flex;
+ justify-content: space-evenly;
+ 
+}
+ul a{
+  display: block;
+  font-size: 0.7rem;
+  margin-top: 10px;
+}
       <a> About Sunnah </a>
       <a> Inventor Relitigation</a>
       <a> Sunnah Scince </a>
